@@ -18,8 +18,8 @@
 
 ## 效果展示
 
-<img width="1220" height="2656" alt="Screenshot_2026-09-28-16-34-15-918_com deepseek b" src="https://github.com/user-attachments/assets/90d49c9f-cf62-4b43-8391-c2f104b43a32" />
-<img width="1220" height="2656" alt="Screenshot_2026-09-28-14-56-35-214_com miui home" src="https://github.com/user-attachments/assets/0e695796-9dd8-48ab-9297-f1387c9289ca" />
+<img width="122" height="265" alt="Screenshot_2026-09-28-16-34-15-918_com deepseek b" src="https://github.com/user-attachments/assets/90d49c9f-cf62-4b43-8391-c2f104b43a32" />
+<img width="122" height="265" alt="Screenshot_2026-09-28-14-56-35-214_com miui home" src="https://github.com/user-attachments/assets/0e695796-9dd8-48ab-9297-f1387c9289ca" />
 
 
 ## 刷新频率
