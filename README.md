@@ -1,6 +1,6 @@
 # DeepSeek API Balance Check Tool
-
-一个极简、轻量的 **原生 Android DeepSeek API 余额查询工具**，用于随时查看 DeepSeek 账户的 CNY 余额、今日用量和当前峰谷时段，并支持桌面小组件。
+# DeepSeek API 余额查询工具
+一个极简、轻量的、本地化 **原生 Android DeepSeek API 余额查询工具**，用于随时查看 DeepSeek 账户的 CNY 余额、今日用量和当前峰谷时段，并支持桌面小组件。
 
 > 非 DeepSeek 官方项目，仅供个人查询与管理使用。
 
