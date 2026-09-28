@@ -16,6 +16,12 @@
 - 显示距离下次时段切换的秒级倒计时
 - 高峰状态使用深红色文字，空闲状态使用灰色文字
 
+## 效果展示
+
+<img width="1220" height="2656" alt="Screenshot_2026-09-28-16-34-15-918_com deepseek b" src="https://github.com/user-attachments/assets/90d49c9f-cf62-4b43-8391-c2f104b43a32" />
+<img width="1220" height="2656" alt="Screenshot_2026-09-28-14-56-35-214_com miui home" src="https://github.com/user-attachments/assets/0e695796-9dd8-48ab-9297-f1387c9289ca" />
+
+
 ## 刷新频率
 
 点击应用中的刷新频率文字，可设置前台刷新间隔：
